@@ -1,1 +1,1 @@
-starting the shell permissions
+starting the shell io redirs
